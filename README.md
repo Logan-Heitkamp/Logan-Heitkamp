@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logan Heitkamp</h1>
 <h3 align="center">A passionate computer science student at UC</h3>
 
-- 📫 How to reach me **logan.d.heitkamp@gmail.com**
+- 📫 How to reach me **logan.d.heitkamp@gmail.com | heitkald@mail.uc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
